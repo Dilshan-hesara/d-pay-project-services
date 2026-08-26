@@ -1,0 +1,9 @@
+[submodule "D-Pay-User-Service"]
+	path = D-Pay-User-Service
+	url = https://github.com/Dilshan-hesara/dpay-user-service.git
+[submodule "D-Pay-Order-Service"]
+	path = D-Pay-Order-Service
+	url = https://github.com/Dilshan-hesara/dpay-order-service.git
+[submodule "D-pay-Inventory-Service"]
+	path = D-pay-Inventory-Service
+	url = https://github.com/Dilshan-hesara/dpay-inventory-service.git
