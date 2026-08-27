@@ -2,6 +2,19 @@
 
 [![Java](https://img.shields.io/badge/Java-25-orange.svg)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.1.0-brightgreen.svg)](https://spring.io/projects/spring-boot)
+ ---
+
+## 🎥 Project Demonstration VIDEO & GCP Configuration VIDEO
+
+Click the image below to watch the full project demonstration. This video showcases the execution of the D-Pay microservices and provides a detailed walkthrough of the internal configurations on Google Cloud Platform (GCP).
+
+## 🔗 Quick Links
+
+|                                               🎥 **Video Demo**                                                |
+|:--------------------------------------------------------------------------------------------------------------:|
+| [▶ Watch on Google Drive](https://drive.google.com/file/d/1NDpEqigfrObE7qfIt4ZVdgn3tiRLsIk-/view?usp=drive_link) |
+
+[![D-Pay Project Demonstration Video](https://github.com/Dilshan-hesara/D-Pay-Web-app/blob/master/img.png)](https://drive.google.com/file/d/1NDpEqigfrObE7qfIt4ZVdgn3tiRLsIk-/view?usp=drive_link)
 
 The `services/` directory houses the core business domain microservices in the D-Pay System. Each microservice is an independent Spring Boot application utilizing polyglot persistence.
 
